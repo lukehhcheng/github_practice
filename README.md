@@ -4,9 +4,8 @@ A repository with which to practice using git.
 
 ### What is your name?
 
-> Answer goes here
-
+Heng-Hsin Cheng
 
 ### What is your favorite color?
 
-> Answer goes here
+blue
